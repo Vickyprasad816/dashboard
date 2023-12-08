@@ -1,0 +1,29 @@
+.reg {
+    margin-left: 250px;
+    font-family:  BlinkMacSystemFont "Segoe UI"
+    Roboto Oxygen Ubuntu Cantarell "Fira Sans"
+    "Droid Sans"
+    "Helvetica Neue"
+    sans-serif;
+    overflow-x:hidden ;
+    
+}
+
+.Form1 {
+    width: 200ch;
+    float: left;
+    display: flex;
+    
+}
+.form2{
+    display:inline;
+    
+
+
+}
+
+* {
+
+    font-weight: initial;
+    font-family: Roboto, Helvetica, Arial, sans-serif;
+}
